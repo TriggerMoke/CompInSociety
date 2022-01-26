@@ -1,0 +1,28 @@
+██████████████████  ████████   triggerm@ToMo 
+██████████████████  ████████   ------------- 
+██████████████████  ████████   OS: Manjaro Linux x86_64 
+██████████████████  ████████   Host: HP Pavilion Laptop 15-eh0xxx 
+████████            ████████   Kernel: 5.10.93-1-MANJARO 
+████████  ████████  ████████   Uptime: 2 hours, 16 mins 
+████████  ████████  ████████   Packages: 1087 (pacman) 
+████████  ████████  ████████   Shell: bash 5.1.16 
+████████  ████████  ████████   Resolution: 1920x1080 
+████████  ████████  ████████   DE: Plasma 5.23.5 
+████████  ████████  ████████   WM: KWin 
+████████  ████████  ████████   Theme: Breath Light [Plasma], Breeze [GTK2/3] 
+████████  ████████  ████████   Icons: [Plasma], breeze [GTK2/3] 
+████████  ████████  ████████   Terminal: konsole 
+                               CPU: AMD Ryzen 5 4500U with Radeon Graphics (6) @ 2.375GHz 
+                               GPU: AMD ATI 04:00.0 Renoir 
+                               Memory: 3246MiB / 7373MiB
+
+That was my laptop ^, it is running linux and i just copy and pasted the system stat screen
+Here are my Desktop specs:
+
+OS Edition:	Windows 10 Professional
+Version:	2009
+OS Build:	10.0.19044.1466
+RAM:		64gb
+CPU:		AMD Ryzen 5800x (8 Cores, 16 Threads)
+GPU:		RTX 3080
+
